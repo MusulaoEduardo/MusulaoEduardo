@@ -35,5 +35,5 @@ Olá, sou um desenvolvedor junior mobile com conhecimentos sólidos em diversas 
 
 - **LinkedIn:** [Eduardo Musulão](https://www.linkedin.com/in/eduardo-musul%C3%A3o-714872253/)
 
-- **Email** [eduardomusulao](eduardomusulao878@gmail.com)
+- **Email** [eduardomusulao878@gmail.com]
 Estou aberto a oportunidades de aprendizado e novos desafios. Vamos construir algo incrível juntos!
