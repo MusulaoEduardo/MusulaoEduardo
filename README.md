@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @MusulaoEduardo
+- ## Contato
+
+- **LinkedIn:** [Eduardo Musulão](https://www.linkedin.com/in/eduardo-musul%C3%A3o-714872253/)
+
+- **Email** [eduardomusulao878@gmail.com]
+
 - # Perfil de Desenvolvedor Junior Mobile
 
-Olá, sou um desenvolvedor junior mobile com conhecimentos sólidos em diversas linguagens de programação, focando principalmente no desenvolvimento para dispositivos móveis. Estou sempre ansioso para aprender e enfrentar novos desafios.
+Sou estudante e desenvolvedor de software Android com pouco tempo de experiência, com foco em desenvolvimento de aplicativos móveis.
 
 ## Habilidades
 
@@ -11,9 +17,19 @@ Olá, sou um desenvolvedor junior mobile com conhecimentos sólidos em diversas 
 
 - **JavaScript (JS):** Conhecimento básico em JavaScript, aplicado a projetos web e mobile.
 
-- **C++:** Familiaridade com C++ em nível básico, utilizado em projetos específicos.
-
 - **Metodologias Ágeis:** Experiência prática em metodologias ágeis, como Scrum, promovendo um ambiente de desenvolvimento colaborativo.
+
+## Certificados
+- Entendendo a Estrutura e Depurando Apps Android
+- Materiais Complementares: Fundamentos de Desenvolvimento Mobile Nativo Para Android
+- Princípios de Interface de Usuário e Layouts Android
+- Manipulando Entradas do Usuário em Apps Android
+- Conhecendo o Kotlin e Sua Documentação Oficial
+- Descomplicando o Hardware - Conheça os componentes do seu Computador!
+- BASIC FRONTEND
+- A EFICIENCIA DA TECNOLOGIA APLICADA NA AREA DA SAUDE (XVIII ENCITEC)
+
+
 
 ## Interesses
 
@@ -27,13 +43,8 @@ Olá, sou um desenvolvedor junior mobile com conhecimentos sólidos em diversas 
 
 ## Projetos Recentes
 
-- Desenvolvimento de um aplicativo mobile [Exemplo de Projeto](link-do-repositorio), utilizando Java e Kotlin.
+- Desenvolvimento de um aplicativo mobile [Exemplo de Projeto](link-do-repositorio), utilizando Kotlin.
 
 - Implementação de funcionalidades em um projeto web utilizando JavaScript e frameworks modernos.
 
-## Contato
 
-- **LinkedIn:** [Eduardo Musulão](https://www.linkedin.com/in/eduardo-musul%C3%A3o-714872253/)
-
-- **Email** [eduardomusulao878@gmail.com]
-Estou aberto a oportunidades de aprendizado e novos desafios. Vamos construir algo incrível juntos!
